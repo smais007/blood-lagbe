@@ -1,0 +1,19 @@
+1. test e jabe
+2. git fetch origin
+3. shob branch show korbe kara kara push korse 
+    theen jader push dekhabe chekcout diye tader brnch e jabe 
+    erpor ui check korbe ,erpor git pull dibe .. 
+
+4.erpor checkout diye test e jabe ,, 
+5. git merge [branch name] [jar brach tumi matro check korso tar branch merge kro]
+6.git add .
+7.git commit
+8.git push test
+9. git checkout develop
+10.git merge test
+11.git add .
+12.git commit
+13.git push main
+14.git add .
+15.git commit
+16.git push
